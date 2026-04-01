@@ -1,4 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Sinan Muhammed
+
+💻 Backend Developer | Django | React  
+🚀 Building scalable web applications  
+
+## Skills
+- Python
+- Django
+- React
+- PostgreSQL
+- Docker
+
+## Projects
+- Trip Tailor (Django + React travel platform)
+- Chit Chat - Real-time Chat App using WebSockets
+
+## Connect with me
+- LinkedIn: https://linkedin.com/in/yourprofile
 
 <!--
 **sinankcrypto/sinankcrypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
