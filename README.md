@@ -1,4 +1,4 @@
-# Hi 👋 I'm Sinan Muhammed
+# Hi 👋 I'm Muhammed Sinan K
 
 💻 Backend Developer | Django | React  
 🚀 Building scalable web applications  
